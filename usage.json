@@ -1,7 +1,7 @@
 {
  "version": 1,
  "generator": "ai-grass",
- "updatedAt": "2026-10-30T08:16:50.633Z",
+ "updatedAt": "2026-10-30T08:16:55.889Z",
  "timezone": "Asia/Seoul",
  "machines": {
   "9438e08156": {
@@ -408,7 +408,7 @@
   },
   "d34991e2ac": {
    "label": "Mac-mini(원격)",
-   "lastSync": "2026-10-30T08:16:50.633Z",
+   "lastSync": "2026-10-30T08:16:55.889Z",
    "days": {
     "2026-10-22": {
      "claude": 3276364,

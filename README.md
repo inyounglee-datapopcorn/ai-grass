@@ -1,4 +1,4 @@
-<!-- ai-grass:v1 -->
+<!-- ai-grass:v2 -->
 # AI 잔디
 
 매일 내 컴퓨터의 Claude Code·Codex 토큰 사용량을 날짜별 합계로만 기록합니다. 대화·코드·파일 이름은 올리지 않아요.
@@ -24,4 +24,4 @@
 GitHub 잔디와 AI 잔디를 합친 3D 조형물 미리보기: https://skyline.datapopcorn.ai/@inyounglee-datapopcorn
 
 ---
-[ai-grass](https://github.com/team-datapopcorn/ai-grass)로 매일 자동 기록됩니다. 기록 형식: `usage.json` (기기별 날짜별 합계)
+ai-grass로 매일 자동 기록됩니다. 기록 형식: `usage.json` (기기별 날짜별 합계)

@@ -1,12 +1,12 @@
 {
  "version": 1,
  "generator": "ai-grass",
- "updatedAt": "2026-10-30T08:16:55.889Z",
+ "updatedAt": "2026-10-30T08:18:33.820Z",
  "timezone": "Asia/Seoul",
  "machines": {
   "9438e08156": {
    "label": "MacBook",
-   "lastSync": "2026-10-30T08:15:32.504Z",
+   "lastSync": "2026-10-30T08:18:33.820Z",
    "days": {
     "2026-10-09": {
      "claude": 465636,
